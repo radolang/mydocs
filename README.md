@@ -1,1 +1,3 @@
 # mydocs
+
+Simple document
